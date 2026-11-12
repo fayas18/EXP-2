@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 2 – OCC AND LOAD CHARACTERISTICS OF D.C. SHUNT GENERATOR
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** |FAYAS GANI S| **Reg. No.:** |26013026 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** |12-11-2026 | **Batch / Section:** | 26ODJ084|
 
 ---
 
